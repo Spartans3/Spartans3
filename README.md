@@ -1,4 +1,4 @@
-<h1>Hi everyone, I'm Atacan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px"></h1>
+<h1>Hi everyone, I'm Atacan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px" height="30px"></h1>
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Spartans3&style=flat-square"></h2>
 
 <p align="justify">I am a software engineer with 3+ years of coding experience. I like solving problems.</p>
@@ -90,7 +90,7 @@
 
 
 <h2 align="left">Suggestions 
-<img  src="https://media4.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif?cid=ecf05e47hrnfs3ogpzq08or6wg79gwu6o0ngloc0n7tjqjf4&rid=giphy.gif&ct=s"  width="30px">
+<img  src="https://media4.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif?cid=ecf05e47hrnfs3ogpzq08or6wg79gwu6o0ngloc0n7tjqjf4&rid=giphy.gif&ct=s"  width="30px" height="30px">
 </h2>
 <p align="justify">I am an anime fan, since you've came this far, let me suggest you some of favorites from <a href="https://myanimelist.net/animelist/spartans3" target="_blank" rel="noopener noreferrer">my list</a>:
 </p>
