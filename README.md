@@ -1,11 +1,11 @@
 <h1>Hi everyone, I'm Atacan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="30px" height="30px"></h1>
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Spartans3&style=flat-square"></h2>
 
-<p align="justify">I am a software engineer with 3+ years of coding experience. I like solving problems.</p>
+<p align="justify">I am a software engineer with 5+ years of coding experience. I like solving problems.</p>
 
 <p align="justify">Over the last few years, I worked mostly on Java language on enterprise companies. At the other times on my freelancing , I used NodeJS and Python. </p>
 
-<p align="justify">I'm into blockchain technologies. Following the topic over years and recently I decided to be part of it. So I'm learning on Solidity nowadays.</p>
+<p align="justify">I'm into blockchain technologies. Following the topics over the years.</p>
 
 
 ## My Skills
@@ -98,7 +98,7 @@
   <img href="https://myanimelist.net/anime/269/Bleach" title="Bleach" src = "https://cdn.myanimelist.net/r/96x136/images/anime/3/40451.webp?s=ee21135c15af7da00192c3d5b6e8286f"/>
   <img href="" title="Attack On Titan" src = "https://cdn.myanimelist.net/r/96x136/images/anime/1948/120625.webp?s=fab0a2230b25c398ae7e8769ca9230b7"/>
   <img href="" title="Death Note" src = "https://cdn.myanimelist.net/r/96x136/images/anime/9/9453.webp?s=786dfb74ff7cd8b85a16d9b00093bb4b"/>
-  <img href="" title="Eyeshield 21" src = "https://cdn.myanimelist.net/r/96x136/images/anime/12/66961.webp?s=d5cb9a9320a6a884ad5dbde8ee6e305c"/>
+  <img href="" title="Eyeshield 21" src = "https://cdn.myanimelist.net/images/anime/1079/133529.jpg" width="96" height="136"/>
   <img href="" title="Fairy Tail" src = "https://cdn.myanimelist.net/r/96x136/images/anime/3/60551.webp?s=80db08058e6694196223b5e19450f648"/>
   <img href="" title="Demon Slayer" src = "https://cdn.myanimelist.net/r/96x136/images/anime/1286/99889.webp?s=80563bc75983779bc1656cc40da08324"/>
   <img href="" title="7 Deadly Sins" src = "https://cdn.myanimelist.net/r/96x136/images/anime/8/65409.webp?s=dd8284178df39f0bb5627b6ea2aa2f03"/>
