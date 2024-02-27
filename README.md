@@ -35,14 +35,6 @@
   <img src ="https://img.shields.io/badge/PLSQL-ff6700?style=for-the-badge"/>
 </p>  
 
-
-### Languages/Frameworks I'm learning:
-<p align="left">
-  <img src ="https://img.shields.io/badge/Solidity-5c666c?style=for-the-badge"/>
-  <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-
   
 ### Databases that I have experience:
 <p align="left">
